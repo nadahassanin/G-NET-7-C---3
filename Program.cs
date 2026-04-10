@@ -28,6 +28,14 @@ namespace ConsoleApp8
             // Answer: The program will crash (Error).
             // Why: Because "12a" has a letter and can't be a number.
             #endregion
+            #region Q5
+            // Answer:
+            //if (int.TryParse(s, out int x))
+            //    Console.WriteLine(x);
+            //else
+            //    Console.WriteLine("Invalid");
+            #endregion
+
         }
     }
 }
