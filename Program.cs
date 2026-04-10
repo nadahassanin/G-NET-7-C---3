@@ -19,6 +19,10 @@ namespace ConsoleApp8
             // Fix: double d2 = n / 2.0;
             // Why: Adding .0 makes it calculate the half (2.5) correctly.
             #endregion
+            #region Q3
+            // Answer:
+            //int age = int.Parse(Console.ReadLine());
+            #endregion
         }
     }
 }
