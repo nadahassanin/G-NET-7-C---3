@@ -62,7 +62,11 @@ namespace ConsoleApp8
             #endregion
             #region Q12
             // Answer: It will crash.
-           
+
+            #endregion
+            #region Q13
+            // Answer: 0
+       
             #endregion
         }
     }
