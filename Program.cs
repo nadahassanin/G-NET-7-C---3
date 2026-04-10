@@ -35,6 +35,11 @@ namespace ConsoleApp8
             //else
             //    Console.WriteLine("Invalid");
             #endregion
+            #region Q6
+            // Answer: 11
+            // Why: It takes 10 and adds 1 to it.
+            #endregion
+           
 
         }
     }
