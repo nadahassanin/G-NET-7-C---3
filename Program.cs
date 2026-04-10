@@ -66,7 +66,11 @@ namespace ConsoleApp8
             #endregion
             #region Q13
             // Answer: 0
-       
+
+            #endregion
+            #region Q14
+            // A: Crashes with null.
+            // B: Doesn't crash gives 0
             #endregion
         }
     }
