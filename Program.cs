@@ -48,6 +48,10 @@ namespace ConsoleApp8
             // Fix:
             //long x = (o is int) ? (int)o : -1;
             #endregion
+            #region Q9
+            // Answer: Blank (Nothing)
+            // Why: Because the name is empty (null)
+            #endregion
         }
     }
 }
