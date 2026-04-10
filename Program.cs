@@ -23,6 +23,11 @@ namespace ConsoleApp8
             // Answer:
             //int age = int.Parse(Console.ReadLine());
             #endregion
+            #region Q4
+
+            // Answer: The program will crash (Error).
+            // Why: Because "12a" has a letter and can't be a number.
+            #endregion
         }
     }
 }
