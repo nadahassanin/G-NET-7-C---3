@@ -10,6 +10,10 @@ namespace ConsoleApp8
     {
         static void Main(string[] args)
         {
+            #region Q1
+            // Answer: 9
+            // Why: It ignores everything after the dot.
+            #endregion
         }
     }
 }
